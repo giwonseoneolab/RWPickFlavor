@@ -8,7 +8,7 @@ s.summary = "RWPickFlavor lets a user select an ice cream flavor."
 s.requires_arc = true
 
 # 2
-s.version = "0.1.0"
+s.version = "0.1.1"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -17,10 +17,10 @@ s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "Keegan Rush" => "keeganrush@gmail.com" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
-s.homepage = "https://github.com/TheCodedSelf/RWPickFlavor"
+s.homepage = "https://github.com/giwonseoneolab/RWPickFlavor"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/TheCodedSelf/RWPickFlavor.git", 
+s.source = { :git => "https://github.com/giwonseoneolab/RWPickFlavor.git", 
              :tag => "#{s.version}" }
 
 # 7
